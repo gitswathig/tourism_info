@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lepakshi Temple</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #8B4513;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #333;
+            overflow: hidden;
+        }
+        nav a {
+            float: left;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Lepakshi Temple</h1>
+    </header>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">History</a>
+        <a href="#">Architecture</a>
+        <a href="#">Sculptures</a>
+        <a href="#">Frescoes</a>
+        <a href="#">Legends</a>
+        <a href="#">Contact</a>
+    </nav>
+    <section>
+        <h2>Welcome to Lepakshi Temple</h2>
+        <p>The Lepakshi Temple is an ancient Hindu temple located in the village of Lepakshi, Anantapur district of Andhra Pradesh, India. It is an architectural marvel and a testament to the rich cultural heritage of the region.</p>
+        <img src="C:\Users\Swathi\OneDrive\Desktop\lepakshi\lepakshi-temple-main.jpg" alt="Lepakshi Temple Main Image">
+        <img src="C:\Users\Swathi\OneDrive\Desktop\lepakshi\lepakshi-temple-main1.jpg" alt="Lepakshi Temple Main Image1">
+
+        <h3>History</h3>
+        <p>The temple is believed to have been built around the 16th century during the reign of the Vijayanagara Empire. It is dedicated to the Hindu deities Shiva, Vishnu, and Brahma. Several legends are associated with the temple, including the story of the legendary bird "Lepakshi" and its role in the construction of the temple.</p>
+        <h3>Architecture</h3>
+        <p>The temple is known for its unique hanging pillar or "Nava Brindavana" (monolith), which is a freestanding monolithic granite pillar that appears to be hanging from the ceiling without any support. This architectural marvel has puzzled engineers and architects for centuries.</p>
+        <img src="C:\Users\Swathi\OneDrive\Desktop\lepakshi\hanging-pillar1.jpg" alt="Hanging Pillar1">
+        <img src="C:\Users\Swathi\OneDrive\Desktop\lepakshi\hanging-pillar2.jpg" alt="Hanging Pillar2">
+        <img src="C:\Users\Swathi\OneDrive\Desktop\lepakshi\hanging-pillar3.jpg".jpg" alt="Hanging Pillar3">
+
+        <h3>Sculptures</h3>
+        <p>The temple is adorned with intricate carvings and sculptures, including depictions of mythological scenes, dancers, and various deities. One of the notable sculptures is the carving of a huge Nandi (bull), the vehicle of Lord Shiva. Another significant feature is the monolithic Nandi (bull) carved from a single piece of granite, which is one of the largest and most intricate Nandi sculptures in India.</p>
+<img src="C:\Users\Swathi\OneDrive\Desktop\nandi1.jpg" alt="nandi1">
+<img src="C:\Users\Swathi\OneDrive\Desktop\lepakshi\sculpture1.jpg" alt="Sculpture1">
+<img src="C:\Users\Swathi\OneDrive\Desktop\lepakshi\sculpture2.jpg" alt="Sculpture2">
+<img src="C:\Users\Swathi\OneDrive\Desktop\lepakshi\sculpture3.jpg" alt="Sculpture3">
+<img src="C:\Users\Swathi\OneDrive\Desktop\lepakshi\sculpture4.jpg" alt="Sculpture4">
+
+        <h3>Frescoes</h3>
+        <p>The Lepakshi Temple is renowned for its beautiful fresco paintings that adorn the ceilings and walls. These paintings depict scenes from Hindu mythology, daily life, and nature. The vibrant colors and intricate details of the frescoes are a testament to the artistic talent of the artisans who created them.</p>
+        <img src="C:\Users\Swathi\OneDrive\Desktop\fresco-painting-1.jpg" alt="Fresco Painting 1">
+       
+        <h3>Legends</h3>
+        <p>Several legends are associated with the Lepakshi Temple, including the story of the legendary bird "Lepakshi" and its role in the construction of the temple. According to the legend, the bird helped the architect by dropping a precious stone at the site, indicating the location where the temple should be built. Another legend speaks of a sculptor who carved the intricate sculptures on the temple walls with his bare hands.</p>
+        <img src="C:\Users\Swathi\OneDrive\Desktop\Lepakshi Legend.jpg" alt="Lepakshi Legend">
+        
+    </section>
+    <footer>
+        <p>&copy; 2023 Lepakshi Temple. All rights reserved.</p>
+    </footer>
+</body>
+</html>
